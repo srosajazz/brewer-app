@@ -2,7 +2,7 @@ package com.sergiorosa.brewer.model;
 
 import org.hibernate.validator.constraints.NotBlank;
 
-public class Beer {
+public class Cerveja {
 	
 	@NotBlank
 	private String sku;
